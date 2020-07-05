@@ -1,0 +1,160 @@
+/* -------------------Responsive */
+@media screen and (max-width: 900px) {
+  .hero-text {
+    color: #141313;
+  }
+  .hero-text h1 {
+    font-size: 60px;
+  }
+  video {
+    width: 140%;
+    height: 100%;
+  }
+  /* ---------------Container-principal*/
+  .title {
+    font-size: 45px;
+  }
+  .container-principal {
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 720px;
+  }
+  .principal-text p {
+    margin-right: 20px;
+  }
+  .container-principal img {
+    width: 400px;
+  }
+  /* ----------Especializados */
+  .article {
+    width: 40%;
+  }
+  /* ---------------Soluciones */
+  .container-second {
+    height: 720px;
+    justify-content: space-evenly;
+    flex-direction: column;
+  }
+  .container-second img {
+    width: 400px;
+  }
+  /* ----------------------Datos */
+  .content-results {
+    flex-direction: column-reverse;
+  }
+  .results-text a {
+    margin-bottom: 60px;
+  }
+  .numbers {
+    width: 100%;
+  }
+  .results-text {
+    width: 100%;
+  }
+  /* ------------------Services */
+  .services {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .box-skills {
+    margin: 0 0 40px 0;
+  }
+  .box-skills h4 {
+    width: 550px;
+  }
+  .services img {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .hero-text {
+    color: #141313;
+  }
+  .hero-text h1 {
+    font-size: 45px;
+  }
+  video {
+    width: 250%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* ---------------Container-principal*/
+  .title {
+    font-size: 33px;
+  }
+  .container-principal {
+    height: 650px;
+  }
+  .container-principal img {
+    width: 300px;
+  }
+  /* ----------Especializados */
+  .article {
+    width: 95%;
+  }
+  /* ---------------Soluciones */
+  .container-second {
+    height: 650px;
+  }
+  .container-second img {
+    width: 300px;
+  }
+  /* ----------------------Datos */
+
+  .numbers .number {
+    width: 95%;
+  }
+  .results-text h4 {
+    font-size: 35px;
+  }
+  /* ------------------Services */
+
+  .box-skills h4 {
+    width: 100%;
+  }
+  .services img {
+    width: 280px;
+  }
+}
+@media screen and (max-width: 310px) {
+  .hero-text {
+    color: #141313;
+  }
+  .hero-text h1 {
+    font-size: 40px;
+  }
+  .hero-text p {
+    font-size: 20px;
+  }
+  video {
+    width: 284%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* ---------------Container-principal*/
+
+  .container-principal {
+    height: 500px;
+  }
+  .container-principal img {
+    width: 200px;
+  }
+  /* ----------Especializados */
+  .article {
+    width: 95%;
+  }
+  /* ---------------Soluciones */
+  .container-second {
+    height: 500px;
+  }
+  .container-second img {
+    width: 200px;
+  }
+
+  /* ------------------Services */
+
+  .services img {
+    width: 200px;
+  }
+}
