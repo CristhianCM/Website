@@ -24,7 +24,7 @@ body {
 }
 /* --------------------------------Hero */
 header {
-  height: 82vh;
+  height: 100vh;
   position: relative;
   overflow: hidden;
 }
@@ -125,7 +125,7 @@ h1 {
 }
 
 .principal-text {
-  margin: 0 0 0 30px;
+  margin: 0 20px 0 30px;
 }
 .principal-text p {
   font-weight: 100;
