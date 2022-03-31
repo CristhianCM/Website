@@ -6,9 +6,9 @@ A web page with a fairly clean design, with animations, with the main theme of p
 
 ### 🎨 Preview
 
-  <summary>🖥 Desktop version</summary>
+🖥 Desktop version
 
-  <summary>📱 Mobile version</summary>
+📱 Mobile version
 
 ### 👩🏻‍💻 Technologies
 
